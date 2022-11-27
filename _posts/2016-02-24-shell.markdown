@@ -1,0 +1,33 @@
+---
+title: "Unix Shell"
+layout: post
+# date: 2016-01-23 22:10
+tag: jekyll
+image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
+headerImage: false
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "A shell written in C."
+category: project
+author: kalpitborkar
+externalLink: false
+---
+
+# Shell
+A shell written in C.\
+Check the github repository here: [Unix Shell](https://github.com/kalpitborkar/shell)
+
+# Instructions
+  - `cd`          : Changes directory
+  - `help`        : Prints all commands available
+  - `cls`         : Clearscreen
+  - `cat`         : Concatenate
+  - `frem`        : Remove file
+  - `fmk`         : Makefile
+  - `copy`        : Copies the contents of a file in another file
+  - `hostnm`      : Prints hostname
+  - `path`        : Prints current directory path
+  - `hd`          : Prints first line of text file
+  - `time`        : Prints current time and date
+  - `history`     : Prints history of commands
+  - `clearhis`    : Clears history of commands
