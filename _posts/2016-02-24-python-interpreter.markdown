@@ -4,7 +4,7 @@ layout: post
 # date: 2016-01-23 22:10
 tag: jekyll
 image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
-headerImage: true
+headerImage: false
 projects: true
 hidden: true # don't count this post in blog pagination
 description: "A compact Python Interpreter written in Python."
@@ -14,7 +14,7 @@ externalLink: false
 ---
 
 # Byterun
-A compact Python Interpreter written in Python.
+A compact Python Interpreter written in Python.\
 Check the github repository here: [Python Interpreter](https://github.com/kalpitborkar/Python-Interpreter)
 
 ## What is Byterun?
