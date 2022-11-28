@@ -39,7 +39,7 @@ layout: compress
 
     {{ scss_sheet | scssify }}
     </style>
-
+    {% seo %}
 </head>
 <body>
     <div class="wrapper-{% if site.width == "normal" %}normal{% elsif site.width == "large" %}large{% endif %}">
