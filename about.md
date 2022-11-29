@@ -13,7 +13,7 @@ layout: page
 # Reach me at:
 <font size = "6">
 - email: kalpitborkar@gmail.com
-- linkedin: www.linkedin.com/in/kalpitborkar
+- linkedin: https://www.linkedin.com/in/kalpitborkar/
 - twitter: https://twitter.com/BorkarKalpit
 </font>
 
