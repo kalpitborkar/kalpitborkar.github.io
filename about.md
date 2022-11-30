@@ -10,11 +10,14 @@ layout: page
 <p style="text-align: center;">Software Enthusiast.</p>
 </font>
 
+
 # Reach me at:
+<p>
 <font size = "4">
-- email: kalpitborkar@gmail.com
-- linkedin: https://www.linkedin.com/in/kalpitborkar/
-- twitter: https://twitter.com/BorkarKalpit
+email: kalpitborkar@gmail.com \
+linkedin: https://www.linkedin.com/in/kalpitborkar/ \
+twitter: https://twitter.com/BorkarKalpit \
 </font>
+</p>
 
 
