@@ -12,12 +12,10 @@ layout: page
 
 
 # Reach me at:
-<p>
 <font size = "4">
-email: kalpitborkar@gmail.com \
-linkedin: https://www.linkedin.com/in/kalpitborkar/ \
-twitter: https://twitter.com/BorkarKalpit \
+<p> email: kalpitborkar@gmail.com </p>
+<p> linkedin: https://www.linkedin.com/in/kalpitborkar/ </p>
+<p> twitter: https://twitter.com/BorkarKalpit </p>
 </font>
-</p>
 
 
