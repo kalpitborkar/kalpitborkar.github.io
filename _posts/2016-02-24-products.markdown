@@ -1,0 +1,26 @@
+---
+title: "Products"
+layout: post
+date: 2016-02-24 22:44
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- markdown
+- elements
+star: true
+category: blog
+author: johndoe
+description: Products
+---
+
+
+
+## URLs
+
+
+* [Woodland chappal](https://amzn.to/3P5x7R9)
+* [Van heusen shirt](https://amzn.to/3B6zj4Z)
+* [Omron Digital Blood Pressure Monitor](https://amzn.to/3Vz0CgD)
+
+
+
