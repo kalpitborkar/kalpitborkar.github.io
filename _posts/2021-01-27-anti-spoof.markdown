@@ -2,7 +2,16 @@
 title: "Face Anti-Spoofing"
 layout: post
 # date: 2016-01-23 22:10
-tag: jekyll
+tag:
+- python
+- machine learning
+- ml
+- face recognition
+- anti spoof
+- computer vision
+- tensorflow
+- keras
+- opencv
 image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: false
 projects: true

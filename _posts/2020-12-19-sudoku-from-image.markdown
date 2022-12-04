@@ -2,7 +2,16 @@
 title: "Sudoku Solutions from Image"
 layout: post
 # date: 2016-01-23 22:10
-tag: jekyll
+tag:
+- python
+- tensorflow
+- keras
+- machine learning
+- ml
+- cnn
+- computer vision
+- sudoku
+- classification
 image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: false
 projects: true

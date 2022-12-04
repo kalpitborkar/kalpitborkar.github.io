@@ -2,7 +2,11 @@
 title: "2D Physics Engine"
 layout: post
 # date: 2016-01-23 22:10
-tag: jekyll
+tag:
+- cpp
+- c++
+- physics engine
+- engine
 image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: false
 projects: true

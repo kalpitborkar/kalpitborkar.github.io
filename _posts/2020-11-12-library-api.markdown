@@ -2,7 +2,13 @@
 title: "Library Management REST API"
 layout: post
 # date: 2016-01-23 22:10
-tag: jekyll
+tag:
+- javascript
+- nodejs
+- api
+- rest
+- backend
+- library
 image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: false
 projects: true

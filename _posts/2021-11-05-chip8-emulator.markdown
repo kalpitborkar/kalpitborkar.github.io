@@ -2,7 +2,11 @@
 title: "Chip8 Emulator"
 layout: post
 # date: 2016-01-23 22:10
-tag: jekyll
+tag:
+- cpp
+- c++
+- chip8
+- emulator
 image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: false
 projects: true
