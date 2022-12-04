@@ -8,7 +8,7 @@ tag:
 image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: false
 projects: true
-hidden: false # don't count this post in blog pagination
+hidden: true # don't count this post in blog pagination
 description: "Simulating the evolution of aggression using Python."
 category: project
 author: kalpitborkar

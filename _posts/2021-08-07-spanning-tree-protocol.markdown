@@ -11,7 +11,7 @@ tag:
 image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: false
 projects: true
-hidden: false # don't count this post in blog pagination
+hidden: true # don't count this post in blog pagination
 description: "Spanning Tree Protocol Simulation using C++"
 category: project
 author: kalpitborkar

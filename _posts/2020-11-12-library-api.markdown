@@ -12,7 +12,7 @@ tag:
 image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: false
 projects: true
-hidden: false # don't count this post in blog pagination
+hidden: true # don't count this post in blog pagination
 description: "REST API for library management system built with Express and MongoDB."
 category: project
 author: kalpitborkar
