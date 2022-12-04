@@ -15,7 +15,7 @@ tag:
 image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: false
 projects: true
-hidden: true # don't count this post in blog pagination
+hidden: false # don't count this post in blog pagination
 description: "A simple face anti-spoofing system to judge whether a face is real or fake."
 category: project
 author: kalpitborkar

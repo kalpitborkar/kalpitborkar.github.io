@@ -10,7 +10,7 @@ tag:
 image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: false
 projects: true
-hidden: true # don't count this post in blog pagination
+hidden: false # don't count this post in blog pagination
 description: "A simple chip-8 emulator written using C++ and SDL2 library."
 category: project
 author: kalpitborkar

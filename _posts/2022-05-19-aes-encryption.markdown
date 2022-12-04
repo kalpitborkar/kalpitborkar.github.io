@@ -11,7 +11,7 @@ tag:
 image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: false
 projects: true
-hidden: true # don't count this post in blog pagination
+hidden: false # don't count this post in blog pagination
 description: "Encryption and decryption program written in C++ implementing 128-bit AES cipher."
 category: project
 author: kalpitborkar
