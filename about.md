@@ -26,6 +26,8 @@ layout: page
 <div class="breaker"></div> -->
 
 
-<img align="right" width="60" height="60" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Rickrolling_QR_code.png">
+<img align="right" width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Rickrolling_QR_code.png">
+
+<div class="breaker"></div>
 
 
