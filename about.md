@@ -8,7 +8,7 @@ layout: page
 <font size = "4">
 <div class="side-by-side">
     <div class="toleft">
-        <img class="image" src="/assets/images/profile_pic.jpg" alt="Profile picture">
+        <img class="image" src="/assets/images/profile_pic_1.jpg" alt="Profile picture">
     </div>
     <div class="toright">
         <p>Currently a 3rd-year undergrad at the Indian Institute of Technology, Bombay pursuing a Major in Electrical Engineering. Enthusiastic towards learning more about Algorithms, Low-Level Design and Problem Solving. Love tackling and solving challenging problems, be it mathematical, logical, or analytical.</p>
@@ -26,13 +26,6 @@ layout: page
 <div class="breaker"></div> -->
 
 
-<h1>Get in touch.</h1>
-<ul>
-	<li><a href="mailto:kalpitborkar@gmail.com">Email</a></li>
-	<li><a href="https://www.linkedin.com/in/kalpitborkar/">Linkedin</a></li>
-	<li><a href="https://github.com/kalpitborkar">Github</a></li>
-</ul>
-
-<div class="breaker"></div>
+<img align="right" width="60" height="60" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Rickrolling_QR_code.png">
 
 
