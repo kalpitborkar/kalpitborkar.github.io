@@ -14,6 +14,7 @@ layout: page
     <div class="toright">
         <p>Currently a 3rd-year undergrad at the Indian Institute of Technology, Bombay pursuing a Major in Electrical Engineering. Enthusiastic towards learning more about Algorithms, Low-Level Design and Problem Solving. Love tackling and solving challenging problems, be it mathematical, logical, or analytical.</p>
     </div>
+    Some Markdown text with <span style="color:blue">some *blue* text</span>.
 </div>
 
 
@@ -38,3 +39,5 @@ layout: page
 - [Github](https://github.com/kalpitborkar)
 
 <div class="breaker"></div>
+
+
