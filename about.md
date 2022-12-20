@@ -8,7 +8,7 @@ layout: page
 <font size = "4">
 <div class="side-by-side">
     <div class="toleft">
-        <img class="image" src="/assets/images/profile_pic_final_cropped.jpg" alt="Profile picture">
+        <img class="image" src="/assets/images/prof_pic_1.jpg" alt="Profile picture">
     </div>
     <div class="toright">
         <p>Currently a 3rd-year undergrad at the Indian Institute of Technology, Bombay pursuing a Major in Electrical Engineering. Enthusiastic towards learning more about Algorithms, Low-Level Design and Problem Solving. Love tackling and solving challenging problems, be it mathematical, logical, or analytical.</p>
