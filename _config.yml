@@ -19,7 +19,8 @@ dark-theme: false
 # and specify source (external or local).
 resume: true
 resume-external: false
-resume-url: assets/resumes/Kalpit_Borkar.pdf
+# resume-url: assets/resumes/Kalpit_Borkar.pdf
+resume-url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
 url: https://kalpitborkar.github.io/
 # your url: https://USERNAME.github.io
