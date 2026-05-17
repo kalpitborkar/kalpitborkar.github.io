@@ -1,0 +1,56 @@
+baseURL = 'https://kalpitborkar.github.io/'
+languageCode = 'en-us'
+title = 'Kalpit Borkar'
+theme = 'PaperMod'
+
+[params]
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  description = "Research scientist working on fundamental machine learning problems in image forensics and AI safety."
+  author = "Kalpit Borkar"
+  
+  # Enabling Profile Mode for a clean, resume-style landing page
+  [params.profileMode]
+    enabled = true
+    title = "hi, i'm kalpit borkar"
+    subtitle = "research scientist @ contrails.ai \n\nworking on fundamental machine learning problems in image forensics and ai safety. previously ml research at mercedes-benz. iit bombay ee alum."
+    
+    # Call-to-action buttons on the homepage
+    [[params.profileMode.buttons]]
+      name = "Read my posts"
+      url = "/posts/"
+      
+    [[params.profileMode.buttons]]
+      name = "Contact me"
+      url = "mailto:kalpit@contrails.ai"
+
+  # Social icons displayed below your profile text
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/kalpitborkar"
+
+  [[params.socialIcons]]
+    name = "linkedin"
+    # Note: Double-check that this is your exact LinkedIn handle
+    url = "https://linkedin.com/in/kalpitborkar" 
+
+  [[params.socialIcons]]
+    name = "email"
+    url = "mailto:kalpit@contrails.ai"
+
+# Top navigation menu
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/" 
+    weight = 20
