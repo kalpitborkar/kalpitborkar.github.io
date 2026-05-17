@@ -16,7 +16,7 @@ theme = 'PaperMod'
   [params.profileMode]
     enabled = true
     title = "hi, i'm kalpit"
-    subtitle = "research scientist @ contrails.ai \n\nworking on fundamental machine learning problems in image forensics and ai safety"
+    subtitle = "research scientist @ contrails.ai \n\nworking on fundamental machine learning problems in image forensics and ai safety \n\n\n\n mail me at kalpit@contrails.ai for anything"
     
     # Call-to-action buttons on the homepage
     [[params.profileMode.buttons]]
