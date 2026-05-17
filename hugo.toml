@@ -9,14 +9,14 @@ theme = 'PaperMod'
   ShowShareButtons = true
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
-  description = "Research scientist working on fundamental machine learning problems in image forensics and AI safety."
+  description = "research scientist working on fundamental machine learning problems in image forensics and AI safety"
   author = "Kalpit Borkar"
   
   # Enabling Profile Mode for a clean, resume-style landing page
   [params.profileMode]
     enabled = true
-    title = "hi, i'm kalpit borkar"
-    subtitle = "research scientist @ contrails.ai \n\nworking on fundamental machine learning problems in image forensics and ai safety. previously ml research at mercedes-benz. iit bombay ee alum."
+    title = "hi, i'm kalpit"
+    subtitle = "research scientist @ contrails.ai \n\nworking on fundamental machine learning problems in image forensics and ai safety"
     
     # Call-to-action buttons on the homepage
     [[params.profileMode.buttons]]
