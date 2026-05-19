@@ -1,5 +1,5 @@
 ---
-title: "why lab models fail in production: research vs in-the-wild"
+title: "why lab models fail in production"
 date: 2026-05-17
 draft: false
 tags: ["Machine Learning", "AI Safety", "Image Forensics"]
