@@ -1,5 +1,5 @@
 ---
-title: "AI Detection in the Wild: Detecting the Ruins"
+title: "why lab models fail in production: research vs in-the-wild"
 date: 2026-05-17
 draft: false
 tags: ["Machine Learning", "AI Safety", "Image Forensics"]
