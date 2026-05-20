@@ -19,8 +19,8 @@ theme = 'PaperMod'
     subtitle = "research scientist @ contrails.ai \n\nworking on fundamental machine learning problems in image forensics and ai safety \n\n\n\n mail me at kalpit@contrails.ai for anything"
     
     imageUrl = "/pfp.png" 
-    imageWidth = 150     
-    imageHeight = 150   
+    imageWidth = 224     
+    imageHeight = 224   
     imageTitle = "kalpit" 
 
     # Call-to-action buttons on the homepage
