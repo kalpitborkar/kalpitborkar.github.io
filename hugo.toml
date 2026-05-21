@@ -17,8 +17,8 @@ paginate = 10
   # Enabling Profile Mode for a clean, resume-style landing page
   [params.profileMode]
     enabled = true
-    title = "Hi, I'm Kalpit"
-    subtitle = "Research Scientist @ Contrails.ai \n\nWorking on fundamental machine learning problems in image forensics and AI safety. \n\nReach out at kalpit@contrails.ai"
+    title = "hi, i'm kalpit"
+    subtitle = "research scientist @ contrails.ai \n\nworking on fundamental machine learning problems in image forensics and AI safety. \n\n reach out at kalpit@contrails.ai"
     
     imageUrl = "/pfp.png" 
     imageWidth = 224      
