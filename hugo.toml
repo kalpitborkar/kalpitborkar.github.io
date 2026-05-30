@@ -1,6 +1,6 @@
 baseURL = 'https://kalpitborkar.github.io/'
 languageCode = 'en-us'
-title = 'Kalpit Borkar | Research Scientist'
+title = 'kalpit borkar'
 theme = 'PaperMod'
 paginate = 10
 
